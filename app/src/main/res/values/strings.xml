@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppReciclaje</string>
+    <string name="textvuew_reciclaya">Recicla Ya</string>
+    <string name="amarillo">En los contenedores de reciclaje amarillos se depositan
+        envases de plástico — de yogur, mantequilla, limpieza, etc.—,
+        envases metálicos como latas y briks, bandejas de porexpan, papel de aluminio,
+        film transparente,…</string>
+    <string name="rojo">Por último, el contenedor rojo está destinado para los
+        desechos hospitalarios, baterías, insecticidas, piezas electrónicas, etc.</string>
+    <string name="azul">Los contenedores de reciclaje azules acumulan los desechos de papel y cartón.
+        En este caso, los principales residuos impropios de este tipo de contenedores de reciclaje son los briks —que como ya hemos dicho van en el amarillo— y las servilletas de cocina utilizadas —
+        las cuales deben ir al marrón junto a los residuos orgánicos</string>
+    <string name="verde">En los contenedores de reciclaje verdes se almacenan los envases de vidrio,
+        como aquellos que contienen perfumes o mermeladas.
+
+En este caso particular, los residuos impropios son bombillas, espejos, ceniceros, vasos y demás elementos de la vajilla.</string>
+    <string name="app_ambiental">App Ambiental!</string>
+
+</resources>
