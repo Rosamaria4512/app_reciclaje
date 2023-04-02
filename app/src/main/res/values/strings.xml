@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">AppReciclaje</string>
     <string name="textvuew_reciclaya">Recicla Ya</string>
+    <string name="app_ambiental">App Ambiental!</string>
+    <string name="recicla_ya">Recicla Ya</string>
+
     <string name="amarillo">En los contenedores de reciclaje amarillos se depositan
         envases de plástico — de yogur, mantequilla, limpieza, etc.—,
         envases metálicos como latas y briks, bandejas de porexpan, papel de aluminio,
@@ -12,8 +15,26 @@
         las cuales deben ir al marrón junto a los residuos orgánicos</string>
     <string name="verde">En los contenedores de reciclaje verdes se almacenan los envases de vidrio,
         como aquellos que contienen perfumes o mermeladas.
+        En este caso particular, los residuos impropios son bombillas, espejos, ceniceros, vasos y demás elementos de la vajilla.</string>
+    <string name="metodos">Metodos</string>
+    <string name="tipos">Tipos</string>
+    <string name="title_activity_menu_reciclaya2">MenuReciclaya2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 
-En este caso particular, los residuos impropios son bombillas, espejos, ceniceros, vasos y demás elementos de la vajilla.</string>
-    <string name="app_ambiental">App Ambiental!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contenedor_rojo">Contenedor Rojo</string>
+    <string name="otro">OTRO</string>
+    <string name="men">Menú</string>
+    <string name="men_reciclaje">MenÚ Reciclaje</string>
+
 
 </resources>
